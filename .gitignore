@@ -29,5 +29,7 @@ sites
 # Executables
 *.exe
 *.out
-*.appe my wukong configuration end
+*.app
 
+a.exe
+a.out
