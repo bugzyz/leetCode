@@ -31,5 +31,12 @@ sites
 *.out
 *.app
 
+# execution
 a.exe
 a.out
+
+#debug
+a.out.dSYM
+
+#.vscode
+*.json
